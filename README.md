@@ -82,4 +82,21 @@
 
     - DOM: https://dom.spec.whatwg.org/
     - Tecnologias - JS: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
-    
+
+
+## Seletores
+    - Tipos de seletores: Tag, ID, Class, Name, Query
+    - Callback
+    - getElementById()
+    - getElementsByTagName()
+    - getElementsByName()
+    - getElementsByClassName()
+    - querySelectorAll() // #id .class
+
+## Formulários
+    - Precisamos evitar que o usuário passe dados incorretos
+    - Ou seja, para direcionar melhor o uso do nosso sistema
+    - Proteger a injeção de código malicioso
+    - Evitar erros de processamento
+    - Formatar dados para facilitar o processamento
+    - Regex (Expressões regulares)
