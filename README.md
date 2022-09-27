@@ -100,3 +100,4 @@
     - Evitar erros de processamento
     - Formatar dados para facilitar o processamento
     - Regex (Expressões regulares)
+
